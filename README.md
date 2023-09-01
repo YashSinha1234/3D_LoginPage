@@ -1,7 +1,7 @@
 # 3D Login Page
-Here I have created a 3-D login page where new user can sign-up themselves and existing user can sing-in to their respective account.
+Here I have created a 3-D login page where new users can sign up themselves and existing users can sign in to their respective accounts.
 
-Tech Stacks
-HTML
-CSS
-Javascript
+# Tech Stacks
+#HTML
+#CSS
+#Javascript
